@@ -1,0 +1,5 @@
+0 Veli
+0 Mehmet
+1 Marat
+2 Ayla
+2 Ece
