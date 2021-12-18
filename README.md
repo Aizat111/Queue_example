@@ -17,3 +17,5 @@ içeriğine göre Mehmet’in önünde 5 kişi vardır.
 -Kişiyi, kendiyle aynı öncelikli kişilerden sonra, kendinden daha az öncelikli kişilerden de önce eklemelisiniz. 
 Bu işlemi gerçekleştirirken, verileri tampon olarak aktarabileceğiniz veri yapıları, bağlı liste, yığın ya da 
 kuyruk veri yapılarıdır. 
+
+![Untitled](https://user-images.githubusercontent.com/60337657/146646701-215df781-01aa-4ea7-a179-3d2bf6fb9768.png)
